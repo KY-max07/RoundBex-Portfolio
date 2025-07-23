@@ -187,9 +187,9 @@ const About = () => {
               </div>
             </div>
 
-            <div className="bg-lime-50 col-span-2 row-span-2 rounded-2xl xl:flex items-center text-center justify-center gap- hidden">
+            <div className="bg-lime-50 col-span-2 row-span-2 rounded-2xl xl:flex items-center text-center justify-center gap-4 hidden">
               <img src="/R-logo.svg" alt="" className="h-16 w-16" />
-              loading="lazy"
+             
               <h1 className="text-5xl font-dx relative top-1 tracking-wider  text-emerald-900 font-extrabold">
                 Champ/RoundBex
               </h1>

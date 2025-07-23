@@ -34,7 +34,7 @@ const Header = () => {
             className="font-dx text-neutral-800 text-lg md:text-2xl pl-1 cursor-pointer z-100 hover:text-orange-800 transition-colors duration-300 tracking-widest font-extrabold"
           >
             <h2 className="relative ">
-              <img src="/public/github.svg" alt=""  className="h-10 md:h-13"/>
+              <img src="/github.svg" alt=""  className="h-10 md:h-13"/>
             </h2>
           </button>
           <button
@@ -48,7 +48,7 @@ const Header = () => {
             className="font-dx text-neutral-800 text-lg md:text-2xl pr-3 cursor-pointer z-100 hover:text-orange-800 transition-colors duration-300 tracking-widest font-extrabold"
           >
             <h2 className="relative bottom-0.5">
-              <img src="/public/linkedin.svg" alt=""  className="h-8 md:h-10"/>
+              <img src="/linkedin.svg" alt=""  className="h-8 md:h-10"/>
             </h2>
           </button>
         </div>

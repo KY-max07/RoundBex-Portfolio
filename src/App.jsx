@@ -7,10 +7,12 @@ import About from "./Components/About";
 import Services from "./Components/Services";
 import Contacts from "./Components/Contacts";
 import Lenis from "lenis";
+import Header from "./Components/Header";
+import LetsTalk from "./Components/LetsTalk";
 
-const Header = React.lazy(() => import("./Components/Header"));
 
-const LetsTalk = React.lazy(() => import("./Components/LetsTalk"));
+
+
 
 const App = () => {
   const [count, setCount] = useState(1);
