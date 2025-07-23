@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "Ling";
+  src: url("LingkawiSouth-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Dx";
+  src: url("DxSlightFreePersonalUse-MdMed.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "clash";
+  src: url("ClashGrotesk-Variable.woff2") format("woff2");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "clash2";
+  src: url("ClashGrotesk-Variable.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
