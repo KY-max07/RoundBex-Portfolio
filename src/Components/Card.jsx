@@ -48,7 +48,7 @@ const Card = () => {
                 </span>
               </h1>
               <h3 className="text-center text-neutral-500 font-clash2 font-extrabold md:text-sm no-select text-xs px-3 md:px-0">
-                Organize and manage your task with drag and drop features and br
+                Organize and manage your task with drag and drop features and be
                 productive.
               </h3>
             </div>
