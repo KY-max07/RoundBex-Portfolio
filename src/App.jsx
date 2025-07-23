@@ -147,7 +147,7 @@ const App = () => {
               >
                 {count}
                 <h1 className="text-[2vh] tracking-widest text-neutral-600">
-                  ky - portfolio
+                  koushik - portfolio
                 </h1>
               </motion.div>
               <motion.div
