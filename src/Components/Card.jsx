@@ -58,13 +58,14 @@ const Card = () => {
 
       <div className="lg:h-80 relative h-30 w-screen lg:left-25 2xl:left-0 lg:w-[65vw] 2xl:w-[73vw] col-span-3 flex-col gap-2 hidden lg:flex ">
         <div className=" ">
-          <h1 className="h-full w-full text-pretty font-dx text-[2vw] tracking-wide flex items-center justify-center text-neutral-600">
+          <h1 className="h-full w-full text-pretty font-dx 2xl:text-[2vw] xl:text-[1.5vw] tracking-wide flex items-center justify-center text-neutral-600  text-center">
             BRING YOUR IDEAS TO LIFE . FULL-STACK--UI/UX DESIGN--{" "}
             <span className="flex text-green-700 items-center px-4 relative left-2">
               SCROLL
               <MoveVertical className="text-[3vw] relative bottom-1.5" />
             </span>
-            --AI-AGENTS--SEO OPTIMIZATION--LANDING PAGES{" "}
+            --AI-AGENTS--SEO OPTIMIZATION-- <span className="text-green-200/30 p-1 bg-white/10 rounded hover:text-green-700 z-100 2xl:text-[1.7vw] xl:text-[1.3vw] relative bottom-1 cursor-pointer">
+            <a href="/Koushik_Yerraguntla_Resumev3.pdf" target="_blank" className="relative top-1 px-2 ">RESUME</a></span>{" "}
           </h1>
         </div>
         <div className="h-3/8 w-full bg-neutral-800"></div>
