@@ -31,7 +31,7 @@ const Header = () => {
             )
           }
            
-            className="font-dx text-neutral-800 text-lg md:text-2xl pl-1 cursor-pointer z-100 hover:text-orange-800 transition-colors duration-300 tracking-widest font-extrabold"
+            className="font-dx text-neutral-800 text-lg md:text-2xl pl-1 cursor-pointer z-100  tracking-widest font-extrabold rounded-4xl"
           >
             <h2 className="relative ">
               <img src="/github.svg" alt=""  className="h-10 md:h-13"/>
