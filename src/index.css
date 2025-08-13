@@ -11,7 +11,7 @@ body {
 html {
   scrollbar-width: none; /* Firefox */
   -ms-overflow-style: none; /* Internet Explorer 10+ */
-  scroll-behavior:smooth;
+  scroll-behavior: smooth;
 }
 
 html::-webkit-scrollbar {
@@ -50,10 +50,10 @@ body.loading {
 @theme {
   --font-ling: "Ling", sans-serif;
   --font-dx: "Dx", sans-serif;
- 
+
   --font-clash: "clash", sans-serif;
   --font-clash2: "clash2", sans-serif;
- 
+
   --color-or: #fc5800;
 }
 .no-select {
